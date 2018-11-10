@@ -1,9 +1,7 @@
-def ticTacToeWelcome(welcome)
-  puts welcome
-  welcome = "Welcome to Tic Tac Toe!"
-end
+puts "Welcome to Tic Tac Toe!"
 
-ticTacToeWelcome(welcome)
+
+
 
   # Edit this file to output "Welcome to Tic Tac Toe!"
 # You can see what this file does by running:
