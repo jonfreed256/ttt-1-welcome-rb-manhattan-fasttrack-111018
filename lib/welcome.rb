@@ -1,6 +1,6 @@
 def ticTacToeWelcome(welcome)
   puts welcome
-  welcome = "Welcome to Tic Tac Toe!""
+  welcome = "Welcome to Tic Tac Toe!"
 end
 
 ticTacToeWelcome(welcome)
